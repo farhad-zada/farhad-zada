@@ -3,7 +3,7 @@ I am Farhad Zada, interested in algorithms, data structures and building disting
 
 - 👋 Hi!
 - 📫 farhad.szd@gmail.com
-- [dev.FarhadZada.com](dev.farhadzada.com)
+- 🔗 [dev.FarhadZada.com](dev.farhadzada.com)
 
 
 <!---
