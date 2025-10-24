@@ -1,7 +1,5 @@
-# Who am I?
-I am Farhad Zada, interested in algorithms, data structures and building distinguished software. 
+Building...
 
-- 👋 Hi!
 - 📫 farhad.szd@gmail.com
 - 🔗 [farhadzada.com](http://dev.farhadzada.com)
 
