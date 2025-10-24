@@ -1,7 +1,7 @@
 Building...
 
 - 📫 farhad.szd@gmail.com
-- 🔗 [farhadzada.com](http://dev.farhadzada.com)
+- 🔗 [farhadzada.com](http://farhadzada.com)
 
 
 <!---
